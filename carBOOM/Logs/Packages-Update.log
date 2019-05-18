@@ -42,3 +42,16 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+
+<<<<<<< HEAD
+=== Sat May 18 13:51:11 2019
+=======
+=== Sat May 18 13:53:47 2019
+>>>>>>> ca407d558fec0e21ea2ee715d17f014fef981506
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.multiplayer-hlapi@1.0.2
+  com.unity.xr.legacyinputhelpers@2.0.2
